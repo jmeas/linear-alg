@@ -55,6 +55,7 @@
     "mainVarName": "linearAlg"
   },
   "dependencies": {
-    "three": "^0.85.2"
+    "three": "0.85.2",
+    "three-orbitcontrols": "1.2.0"
   }
 }
